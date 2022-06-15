@@ -6,7 +6,7 @@
 - Soru 3: Bir metodun private, protected ya da public olması kavramlarını açıklayınız.
 - Soru 4: (Abstraction) Soyutlama nedir?
 
-## Aşağıdaki senaryoya göre bir UML diagramı çiziniz. (60 puan)
+## Aşağıdaki senaryoya göre bir UML Class diagramı çiziniz. (60 puan)
 Bir e-ticaret projesinde, sisteme giriş yapacak farklı kullanıcı türleri mevcuttur. Bu türler üç başlıkta toplanabilir.
 Müşteri (Client), Satıcı (Merchant), Sistem Yöneticisi (Admin)
 Her başlıktaki kullanıcı türleri için aşağıdaki koşullar mevcuttur:
